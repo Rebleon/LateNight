@@ -8,15 +8,14 @@ body {
     line-height: 1.6;
 }
 
-/* Header Styles */
-.header {  /* Changed this from header to .header to match the HTML class */
+.header { 
     background-color: #ffffff;
     color: #054943;
     padding: 20px 0;
     text-align: center;
 }
 
-.header h1 {  /* This applies styling to the h1 inside .header */
+.header h1 {  
     margin: 0;
     font-size: 2.5rem;
 }
@@ -58,9 +57,9 @@ footer p {
 
 ./* Image Styling */
 .imgcss {
-    display: block; /* Ensures the image is a block-level element */
-    margin: 20px auto; /* Centers the image horizontally */
+    display: block; 
+    margin: 20px auto; 
     max-width: 100%; /* Ensures the image doesn't exceed the width of its container */
-    height: auto; /* Maintains the aspect ratio */
+    height: auto;
 }
 
