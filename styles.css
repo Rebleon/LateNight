@@ -2,20 +2,20 @@ body {
     font-family: Arial, sans-serif;
     margin: 5px;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #252525;
+    color: #11a7a7;
     line-height: 1.6;
 }
 
 header {
-    background-color: #ffffff;
-    color: #054943;
+    background-color: #4b4747;
+    color: #11a7a7;
     padding: 20px 0;
     text-align: center;
 }
 
 h1 {
-    color: #0b685b;
+    color: #11a7a7;
     font-size: 2rem;
     margin-bottom: 10px;
     text-align: center;
@@ -25,12 +25,12 @@ main {
     padding: 20px;
     max-width: 800px;
     margin: 20px auto;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #4b4b4b;s
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-    color: #0b685b;
+    color: #11a7a7;
     font-size: 2rem;
     margin-bottom: 10px;
     text-align: center;
@@ -49,7 +49,7 @@ main p {
 }
 
 .hero {
-    background-color: white;
+    background-color: rgb(65, 64, 64);
     padding: 20px;
     border-radius: 10px;
 }
